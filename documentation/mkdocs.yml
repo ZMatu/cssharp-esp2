@@ -1,7 +1,7 @@
 site_name: cssharp-español
-site_url: https://ZMatu.github.io/cssharp-español/
-repo_url: https://github.com/shobhit-pathak/cssharp-español
-repo_name: shobhit-pathak/cssharp-español
+site_url: https://ZMatu.github.io/cssharp-esp2/
+repo_url: https://github.com/ZMatu/cssharp-esp2
+repo_name: ZMatu/cssharp-esp2
 theme:
   name: material
   features:
